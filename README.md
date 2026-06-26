@@ -6,33 +6,33 @@ A modern, responsive, and visually appealing landing page for Kalaignarkarunanid
 
 ✨ Features
 
-  🏠 Responsive Home Page
-  🧭 Fixed Navigation Bar with Smooth Scrolling
-  🎯 Attractive Hero Section
-  🏛️ About College Section
-  📚 Interactive UG & PG Course Tabs
-  💳 Modern Course Cards
-  📞 Contact & Enquiry Form
-  📱 Mobile-Friendly Navigation Menu
-  🎨 Professional UI Design
-  ⚡ Fast Loading & Responsive Layout
+- 🏠 Responsive Home Page
+- 🧭 Fixed Navigation Bar with Smooth Scrolling
+- 🎯 Attractive Hero Section
+- 🏛️ About College Section
+- 📚 Interactive UG & PG Course Tabs
+- 💳 Modern Course Cards
+- 📞 Contact & Enquiry Form
+- 📱 Mobile-Friendly Navigation Menu
+- 🎨 Professional UI Design
+- ⚡ Fast Loading & Responsive Layout
 
 💻 Technologies Used
 
-  🌐 HTML5
-  🎨 CSS3
-  📐 Flexbox
-  📊 CSS Grid
-  🔤 Google Fonts
-  📱 Responsive Web Design
+- 🌐 HTML5
+- 🎨 CSS3
+- 📐 Flexbox
+- 📊 CSS Grid
+- 🔤 Google Fonts
+- 📱 Responsive Web Design
 
 📂 Website Sections
 
-  🏠 Home
-  🏛️ About
-  📚 Courses
-  📞 Contact
-  ©️ Footer
+- 🏠 Home
+- 🏛️ About
+- 📚 Courses
+- 📞 Contact
+- ©️ Footer
 
 🎯 Project Objective
 
@@ -40,24 +40,24 @@ The main objective of this project is to create a professional and responsive co
 
 🚀 Skills Gained
 
-  ✅ Semantic HTML5
-  ✅ Advanced CSS3 Styling
-  ✅ Responsive Web Design
-  ✅ CSS Flexbox & Grid
-  ✅ UI/UX Design Principles
-  ✅ Navigation & Smooth Scrolling
-  ✅ Modern Landing Page Development
-
+- ✅ Semantic HTML5
+- ✅ Advanced CSS3 Styling
+- ✅ Responsive Web Design
+- ✅ CSS Flexbox & Grid
+- ✅ UI/UX Design Principles
+- ✅ Navigation & Smooth Scrolling
+- ✅ Modern Landing Page Development
+ 
 🔮 Future Enhancements
 
-  📝 Online Admission Form
-  👨‍🎓 Student Login Portal
-  🔍 Course Search
-  🖼️ Image Gallery
-  🌙 Dark Mode
-  ✨ CSS Animations
-  🗺️ Google Maps Integration
-  📧 Backend Form Validation
+- 📝 Online Admission Form
+- 👨‍🎓 Student Login Portal
+- 🔍 Course Search
+- 🖼️ Image Gallery
+- 🌙 Dark Mode
+- ✨ CSS Animations
+- 🗺️ Google Maps Integration
+- 📧 Backend Form Validation
 
 👩‍💻 Author
 
